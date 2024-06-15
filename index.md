@@ -6,6 +6,4 @@ This is my landing page.
   **Francesc Rodriguez Tous**
 </div>
 
-![My Image Description](assets/images/your-image.jpg)
-
 Here is some more content for my webpage.
